@@ -1,0 +1,4 @@
+﻿English	Việt nam
+love	yêu
+one	một
+two	hai

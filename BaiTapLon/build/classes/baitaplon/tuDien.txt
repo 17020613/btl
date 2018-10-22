@@ -1,0 +1,5 @@
+one	một
+two	hai
+hi	chào
+hello	xin chào
+bye	tạm biệt
